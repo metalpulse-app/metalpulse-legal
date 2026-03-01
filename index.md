@@ -2,9 +2,8 @@
 
 **Last updated: 2026-03-01**
 
-MetalPulse ("the app", "we") is developed by [Your Name / Company] and published at
-https://metalpulse.app. This Privacy Policy explains what data the app accesses, how it
-is stored, and what your rights are.
+MetalPulse ("the app", "we") is an independent app for Metal Blockchain node operators.
+This Privacy Policy explains what data the app accesses, how it is stored, and what your rights are.
 
 ---
 
@@ -141,7 +140,7 @@ information from children under 13 (or the applicable age in your jurisdiction).
 
 ## 9. Changes to This Policy
 
-We will post any updates to this policy at https://metalpulse.app/privacy with an updated
+We will post any updates to this policy at https://metalpulse-app.github.io/metalpulse-legal with an updated
 "Last updated" date. Continued use of the app after changes constitutes acceptance.
 
 ---
@@ -152,4 +151,4 @@ Questions about this privacy policy:
 
 **MetalPulse**
 Email: blockade.kanaele-5h@icloud.com
-Website: https://metalpulse-app.github.io/metalpulse-legal
+Privacy Policy: https://metalpulse-app.github.io/metalpulse-legal
